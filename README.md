@@ -1,20 +1,20 @@
 # ScaleShift: Alternative Musical Notation Conversion Scripts
 
-Welcome to **ScaleShift**, a platform that bridges traditional musical notation with cutting-edge alternative notation systems. Our mission is to make music more accessible, intuitive, and visually comprehensible by providing tools to convert between traditional musical notation and various alternative musical notation systems.
+Welcome to [**ScaleShift**](http://scaleshift.app), a platform that bridges traditional musical notation with cutting-edge alternative notation systems. Our mission is to make music more accessible, intuitive, and visually comprehensible by providing tools to convert between traditional musical notation and various alternative musical notation systems.
 
-ScaleShift enables musicians, composers, educators, and music enthusiasts to explore and utilize alternative musical notations. Whether you're looking to experiment with chromatic notation systems, explore isomorphic layouts, or teach music theory through visual innovation, ScaleShift provides the conversion tools you need.
+ScaleShift enables musicians, composers, educators, and music enthusiasts to explore and utilise alternative musical notations. Whether you're looking to experiment with chromatic notation systems, explore isomorphic layouts, or teach music theory through visual innovation, ScaleShift provides the conversion tools you need.
 
 ## 🎼 Alternative Notation Scripts
 
 This repository contains LilyPond files (`.ly`) that implement various alternative musical notation systems. Each file provides a complete implementation that can be used to render musical scores in the corresponding notation.
 
-Each file is implemented in our public platform [ScaleShift](http://scaleshift.app) where anyone can use it to convert their musical scores.
+Each file is implemented in our public platform [ScaleShift](http://scaleshift.app), where anyone can use it to convert their musical scores.
 
 ### - **Clairnote** (`clairnote.ly`)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clairnote SN was proposed originally by Paul Morris on 2018.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clairnote SN was proposed originally by Paul Morris in 2018.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposal as well as extensive documentation and software can be found on the main website of the notation:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposal, as well as extensive documentation and software, can be found on the main website of the notation:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official Website**](http://clairnote.org)
 
@@ -33,9 +33,9 @@ Each file is implemented in our public platform [ScaleShift](http://scaleshift.a
 
 ### - **Chromatic Lyre** (`chromaticlyre.ly`)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chromatic Lyre was proposed originally by Jan Braunstein on 2009.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chromatic Lyre was proposed originally by Jan Braunstein in 2009.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposal as well as extensive documentation and software can be found on the main website of the notation:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposal, as well as extensive documentation and software, can be found on the main website of the notation:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official Website**](http://www.delos.cz/en/sheet_music/chromatic_lyre_notation.html)
 
@@ -52,26 +52,26 @@ Each file is implemented in our public platform [ScaleShift](http://scaleshift.a
 
 ### - **TwinNote** (`twinnote.ly`)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TwinNote was proposed originally by Paul Morris on 2009.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TwinNote was proposed originally by Paul Morris in 2009.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposal as well as extensive documentation and software can be found on the main website of the notation:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposal, as well as extensive documentation and software, can be found on the main website of the notation:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official Website**](https://twinnote.clairnote.org/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current .ly implementation has been created by ScaleShift and is **EXPERIMENTAL**. It has been created following the documentation in the official website. We greatly value improvements to the current file. Some scripts can be found in the [software section](https://twinnote.clairnote.org/software/) of the official website.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current .ly implementation has been created by ScaleShift and is **EXPERIMENTAL**. It has been created following the documentation on the official website. We greatly value improvements to the current file. Some scripts can be found in the [software section](https://twinnote.clairnote.org/software/) of the official website.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other resources: [TwinNote at the Music Notation Project](https://musicnotation.org/system/twinnote-by-paul-morris/)
 
 
 ### - **MUTO** (`muto.ly`)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MUTO was proposed originally by the MUTO Music Method Foundation on 1995.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MUTO was proposed originally by the MUTO Music Method Foundation in 1995.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposal as well as extensive documentation and software can be found on the main website of the notation:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposal, as well as extensive documentation, can be found on the main website of the notation:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official Website**](https://muto-method.com/en/index.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current .ly implementation has been created by ScaleShift and is **EXPERIMENTAL**. It has been created following the documentation in the official website. We greatly value improvements to the current file.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current .ly implementation has been created by ScaleShift and is **EXPERIMENTAL**. It has been created following the documentation on the official website. We greatly value improvements to the current file.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other resources: [MUTO at the Music Notation Project](https://musicnotation.org/system/muto-notation-by-muto-foundation/)
 
@@ -122,7 +122,7 @@ Otherwise, you can create a Pull Request here:
 
 ## 📄 License
 
-Please see individual files and official websites for specific licensing information. Scripts that are mentioned as explicitly created by ScaleShift are shared under a MIT open-source license.
+Please see individual files and official websites for specific licensing information. Scripts that are mentioned as explicitly created by ScaleShift are shared under an MIT open-source license.
 
 
 ## Contact
