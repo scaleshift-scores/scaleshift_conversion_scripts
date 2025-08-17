@@ -10,72 +10,70 @@ This repository contains LilyPond files (`.ly`) that implement various alternati
 
 Each file is implemented in our public platform [ScaleShift](http://scaleshift.app) where anyone can use it to convert their musical scores.
 
-### 📁 Available Notation Systems
+### - **Clairnote** (`clairnote.ly`)
 
-#### **Clairnote** (`clairnote.ly`)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clairnote SN was proposed originally by Paul Morris on 2018.
 
-Clairnote SN was proposed originally by Paul Morris on 2018.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposal as well as extensive documentation and software can be found on the main website of the notation:
 
-The proposal as well as extensive documentation and software can be found on the main website of the notation:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official Website**](http://clairnote.org)
 
-[**Official Website**](http://clairnote.org)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current .ly implementation has been created by the original clairnote author and provided in the following link:
 
-The current .ly implementation has been created by the original clairnote author and provided in the following link:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official implementation**](https://clairnote.org/software/#creating)
 
-[**Official implementation**](https://clairnote.org/software/#creating)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official implementation .ly file**](https://clairnote.org/lilypond/clairnote.ly)
 
-[**Official implementation .ly file**](https://clairnote.org/lilypond/clairnote.ly)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official implementation Repository**](https://gitlab.com/paulmorris/lilypond-clairnote)
 
-[**Official implementation Repository**](https://gitlab.com/paulmorris/lilypond-clairnote)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The .ly file is published here as a copy of the original, to facilitate its implementation in the ScaleShift project
 
-The .ly file is published here as a copy of the original, to facilitate its implementation in the ScaleShift project
-
-Other resources: [Clairnote at the Music Notation Project](https://musicnotation.org/system/clairnote-sn-paul-morris/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other resources: [Clairnote at the Music Notation Project](https://musicnotation.org/system/clairnote-sn-paul-morris/)
 
 
-#### **Chromatic Lyre** (`chromaticlyre.ly`)
+### - **Chromatic Lyre** (`chromaticlyre.ly`)
 
-Chromatic Lyre was proposed originally by Jan Braunstein on 2009.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chromatic Lyre was proposed originally by Jan Braunstein on 2009.
 
-The proposal as well as extensive documentation and software can be found on the main website of the notation:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposal as well as extensive documentation and software can be found on the main website of the notation:
 
-[**Official Website**](http://www.delos.cz/en/sheet_music/chromatic_lyre_notation.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official Website**](http://www.delos.cz/en/sheet_music/chromatic_lyre_notation.html)
 
-The current .ly implementation has been created by the original chromatic lyre author and provided in the following link:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current .ly implementation has been created by the original chromatic lyre author and provided in the following link:
 
-[**Official implementation**](http://www.delos.cz/en/sheet_music/lyrebird.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official implementation**](http://www.delos.cz/en/sheet_music/lyrebird.html)
 
-[**Official implementation .ly file**](http://www.delos.cz/en/sheet_music/lyrebird.ly) current version: 23.05.18
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official implementation .ly file**](http://www.delos.cz/en/sheet_music/lyrebird.ly) current version: 23.05.18
 
-The .ly file is published here as a copy of the original, to facilitate its implementation in the ScaleShift project
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The .ly file is published here as a copy of the original, to facilitate its implementation in the ScaleShift project
 
-Other resources: [Chromatic Lyre at the Music Notation Project](https://musicnotation.org/system/chromatic-lyre-notation-by-jan-braunstein/)
-
-
-#### **TwinNote** (`twinnote.ly`)
-
-TwinNote was proposed originally by Paul Morris on 2009.
-
-The proposal as well as extensive documentation and software can be found on the main website of the notation:
-
-[**Official Website**](https://twinnote.clairnote.org/)
-
-The current .ly implementation has been created by ScaleShift and is **EXPERIMENTAL**. It has been created following the documentation in the official website. We greatly value improvements to the current file. Some scripts can be found in the [software section](https://twinnote.clairnote.org/software/) of the official website.
-
-Other resources: [TwinNote at the Music Notation Project](https://musicnotation.org/system/twinnote-by-paul-morris/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other resources: [Chromatic Lyre at the Music Notation Project](https://musicnotation.org/system/chromatic-lyre-notation-by-jan-braunstein/)
 
 
-#### **MUTO** (`muto.ly`)
+### - **TwinNote** (`twinnote.ly`)
 
-MUTO was proposed originally by the MUTO Music Method Foundation on 1995.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TwinNote was proposed originally by Paul Morris on 2009.
 
-The proposal as well as extensive documentation and software can be found on the main website of the notation:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposal as well as extensive documentation and software can be found on the main website of the notation:
 
-[**Official Website**](https://muto-method.com/en/index.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official Website**](https://twinnote.clairnote.org/)
 
-The current .ly implementation has been created by ScaleShift and is **EXPERIMENTAL**. It has been created following the documentation in the official website. We greatly value improvements to the current file.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current .ly implementation has been created by ScaleShift and is **EXPERIMENTAL**. It has been created following the documentation in the official website. We greatly value improvements to the current file. Some scripts can be found in the [software section](https://twinnote.clairnote.org/software/) of the official website.
 
-Other resources: [MUTO at the Music Notation Project](https://musicnotation.org/system/muto-notation-by-muto-foundation/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other resources: [TwinNote at the Music Notation Project](https://musicnotation.org/system/twinnote-by-paul-morris/)
+
+
+### - **MUTO** (`muto.ly`)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MUTO was proposed originally by the MUTO Music Method Foundation on 1995.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposal as well as extensive documentation and software can be found on the main website of the notation:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Official Website**](https://muto-method.com/en/index.html)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current .ly implementation has been created by ScaleShift and is **EXPERIMENTAL**. It has been created following the documentation in the official website. We greatly value improvements to the current file.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other resources: [MUTO at the Music Notation Project](https://musicnotation.org/system/muto-notation-by-muto-foundation/)
 
 
 
