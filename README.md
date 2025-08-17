@@ -129,5 +129,5 @@ Please see individual files and official websites for specific licensing informa
 
 This project is led by Miguel Arana-Catania, Senior Research Software Engineer AI/NLP at the University of Oxford
 
-Contact me directly or use the contact form on the ScaleShift website.
+Contact me directly or use the contact form on the [**ScaleShift**](http://scaleshift.app) website.
 
